@@ -86,7 +86,7 @@
 
 <!-- SOCAIL MEDIA HANDLES -->
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Pavani Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/pavani-lakshmi-emani-4117b4228/)](https://www.linkedin.com/in/pavani-lakshmi-emani-4117b4228/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Pavani Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/pavani-lakshmi-emani-4117b4228)](https://www.linkedin.com/in/pavani-lakshmi-emani-4117b4228)
 
 - [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
 

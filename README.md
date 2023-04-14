@@ -88,7 +88,7 @@
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Pavani-Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavani-lakshmi-emani-4117b4228)](https://www.linkedin.com/in/pavani-lakshmi-emani-4117b4228)
 
-- [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-emanipavanilakshmi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanipavanilakshmi@gmail.com)](mailto:emanipavanilakshmi@gmail.com)
 
 - [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919701514053)](https://wa.me/+919701514053)
 

@@ -90,7 +90,7 @@
 
 - [![Gmail Badge](https://img.shields.io/badge/-emanipavanilakshmi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanipavanilakshmi@gmail.com)](mailto:emanipavanilakshmi@gmail.com)
 
-- [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919701514053)](https://wa.me/+919701514053)
+- [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919182242423)](https://wa.me/+919182242423)
 
 - [![Instagram Badge](https://img.shields.io/badge/Imudaypamu-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)](https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)
 
